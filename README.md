@@ -6,7 +6,7 @@
 
 <h2> Prerequisites</h2>
 <ol>
-  <li>Node js<
-  <liType script</li>
+  <li>Node js
+  <liType script
   </ol>
   
